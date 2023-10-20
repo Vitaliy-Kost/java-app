@@ -7,6 +7,9 @@ The main goal of the project is designing a website where the university or inst
 Link to the development version of the site: https://develop-softserve.herokuapp.com/
 
 ## Creating a local repository
+```shell
+git clone https://github.com/Vitaliy-Kost/java-app
+```
 In order to create a local copy of the project you need:
 1. Download and install the last version of Git https://git-scm.com/downloads
 2. Open a terminal and go to the directory where you want to clone the files. 
